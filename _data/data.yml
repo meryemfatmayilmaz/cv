@@ -47,7 +47,7 @@ experiences:
         Zorunlu stajımı burda tamamladım.Var olan web sitesinin arayüz iyileştirmeleri için frontend tarafında 2 ay boyunca çalıştım
           -JavaScript
           - CSS
-    - role:Stajyer 
+    - role: Stajyer 
       time: 09.2020 - 10.2020
       company: Arge Bilişim Ltd.Şti
       details: |
@@ -56,11 +56,11 @@ experiences:
         Genel proje C# ile yazıldığı için Projeyi c# ile yazdım.
           - C# 
           - OOP
-          - ImageProcessor library
+          - ImageProcessor 
           - Emgu CV
     - role: Bilgiayar Mühendisi
       time: 10-2020-Halen
-      company: Amazon, London
+      company: Arge Bilişim Ltd.Şti
       details: 
         Arge Bilişim firmasına gönüllü stajyer olarak başladıktan sonra ekip uyumum, çözüm odaklı olmam sayesinde anlaşarak bu firmada işe başladım.
         Görüntü işleme projesine 10.2021 tarihine kadar devam ettim.
@@ -69,6 +69,15 @@ experiences:
         -Python
         -.Net
         -RabbitMQ        
+        -Ekip çalışması
+        - role: Bilgiayar Mühendisi
+      time: 10-2020-Halen
+      company: Arge Bilişim Ltd.Şti
+      details: 
+        Görüntü işleme projesi sona erdikten sonra ana projede Planlama modülü kısmında yer aldım.Sonrasında 
+        -MSSql
+        -.Net
+        -        
         -Ekip çalışması
         
 projects:
