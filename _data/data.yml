@@ -98,11 +98,7 @@ projects:
 
       - title: Araç Kiralama Projesi
         tagline: "Kendimi geliştirmek üzere başladığım bir projedir.Kullanıcılara araç kiralama projesidir."
-                    -.Net 6.0
-                    -FluentValidation
-                    -AOP
-                    -OOP
-                    -Katmanlı Mimari
+     
 publications:
     title: Publications
     intro: |
