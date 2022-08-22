@@ -47,7 +47,7 @@ experiences:
         Zorunlu stajımı burda tamamladım.Var olan web sitesinin arayüz iyileştirmeleri için frontend tarafında 2 ay boyunca çalıştım
           -JavaScript
           - CSS
-    - role:Stajyer 
+    - role: Stajyer 
       time: 09.2020 - 10.2020
       company: Arge Bilişim Ltd.Şti
       details: |
@@ -56,7 +56,9 @@ experiences:
         Genel proje C# ile yazıldığı için Projeyi c# ile yazdım.
           - C# 
           - OOP
+          - Ptyhon
           - ImageProcessor library
+          - Machine Learning
           - Emgu CV
     - role: Bilgiayar Mühendisi
       time: 10-2020-Halen
@@ -64,8 +66,6 @@ experiences:
       details: 
         Arge Bilişim firmasına gönüllü stajyer olarak başladıktan sonra ekip uyumum, çözüm odaklı olmam sayesinde anlaşarak bu firmada işe başladım.
         Görüntü işleme projesine 10.2021 tarihine kadar devam ettim.
-        Proje realtime bir projedir.
-        Kamera ile resimleri alırken aynı anda hata kontrolü yaparak veritabanına hatalı kısımları kaydediyordu.
         -Python
         -.Net
         -RabbitMQ        
@@ -78,34 +78,31 @@ experiences:
         10.2021 tarihinden sonra ArgeMAS projesinde yer aldım.
         - .NET Framework
         - .NET Winforms
+        - TSQL
         - Devexpress
+   
+        
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Üzerinde çalıştığım ve geliştirdiğim projeleri bu kısımda inceleyebilirsiniz.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Kamera ile Kumaş Kalite Kontrol Projesi
+        tagline: "Proje realtime bir projedir.Kumaş kalite kontrol makinesinden görüntü işleme kamerasıyla fotoğraflar çekip dosyaya kaydeder ve fotoğraf kaydedikçe
+        görüntü işleme projesi çalışmaya devam eder.Bunun için Kumaş kalite kontrol makinesi çalışmadan referans iki fotoğraftan treshold değeri elde edilir.Makine çalıştırılır 
+        Elde edilen  treshold değerine göre hata bulunan fotoğraflar hatanın bulunduğu metre ile veritabanına kaydedilir.
+        "
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: ArgeMAS Projesi        
+        tagline: "Bu proje de planlama modülünde ve diğer yazılım geliştirme kısımlarında yer aldım.Özellikle Planlama modulu için Tsql ile bol bol çalışma fırsatım oldu."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+      - title: Araç Kiralama Projesi
+        tagline: "Kendimi geliştirmek üzere başladığım bir projedir.Kullanıcılara araç kiralama projesidir."
+                    -.Net 6.0
+                    -FluentValidation
+                    -AOP
+                    -OOP
+                    -Katmanlı Mimari
 publications:
     title: Publications
     intro: |
