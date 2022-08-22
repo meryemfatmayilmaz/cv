@@ -60,7 +60,7 @@ experiences:
           - Emgu CV
     - role: Bilgiayar Mühendisi
       time: 10-2020-Halen
-      company: Amazon, London
+      company: Arge Bilişim Ltd.Şti
       details: 
         Arge Bilişim firmasına gönüllü stajyer olarak başladıktan sonra ekip uyumum, çözüm odaklı olmam sayesinde anlaşarak bu firmada işe başladım.
         Görüntü işleme projesine 10.2021 tarihine kadar devam ettim.
@@ -71,6 +71,14 @@ experiences:
         -RabbitMQ        
         -Ekip çalışması
         
+    - role: Bilgiayar Mühendisi
+      time: 10-2020-Halen
+      company: Arge Bilişim Ltd.Şti
+      details: 
+        10.2021 tarihinden sonra ArgeMAS projesinde yer aldım.
+        - .NET Framework
+        - .NET Winforms
+        - Devexpress
 projects:
     title: Projects
     intro: >
