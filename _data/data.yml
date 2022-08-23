@@ -3,21 +3,18 @@ career-profile:
   summary: "Merhabalar.14 Mart 1998 tarihinde İstanbul'da doğdum.Gebze Kocaeli'de ikamet ediyorum.Merakım sayesinde bu alana yöneldim ve sürekli merak edecek şeyler buluyorum.\n"
   title: Hakkımda
 education: 
-  - 
-    degree: "Bilgisayar Mühendisliği"
+  - degree: "Bilgisayar Mühendisliği"
     time: "2016 - 2020"
     university: "Kastamonu Üniversitesi"
 experiences: 
-  - 
-    company: "Kocaeli Üniversitesi - Bilgi İşlem Müdürlüğü"
+  - company: "Kocaeli Üniversitesi - Bilgi İşlem Müdürlüğü"
     details: |
         Zorunlu stajımı burda tamamladım.Var olan web sitesinin arayüz iyileştirmeleri için frontend tarafında 2 ay boyunca çalıştım
-          -JavaScript
+          - JavaScript
           - CSS
     role: Stajyer
     time: "06.2017 - 08.2017"
-  - 
-    company: "Arge Bilişim Ltd.Şti"
+  - company: "Arge Bilişim Ltd.Şti"
     details: |
         Üniversitenin son senesinde pyton görüntü işleme ve makine öğrenmesiyle uğraştığım ve üzerine gitmek istediğim için Arge Bilişim'de görüntü işleme üzerine staj yaptım.
         Proje konusu kamera sistemi ile tekstil fabrikalarında kumaş kalite kontrol yapmaktı.
@@ -30,27 +27,22 @@ experiences:
           - Emgu CV
     role: Stajyer
     time: "09.2020 - 10.2020"
-  - 
-    company: "Arge Bilişim Ltd.Şti"
+  - company: "Arge Bilişim Ltd.Şti"
     details: "Arge Bilişim firmasına gönüllü stajyer olarak başladıktan sonra ekip uyumum, çözüm odaklı olmam sayesinde anlaşarak bu firmada işe başladım. Görüntü işleme projesine 10.2021 tarihine kadar devam ettim. - Python -. Net - RabbitMQ - Ekip çalışması"
     role: "Bilgiayar Mühendisi"
     time: 10-2020-Halen
-  - 
-    company: "Arge Bilişim Ltd.Şti"
+  - company: "Arge Bilişim Ltd.Şti"
     details: "10.2021 tarihinden sonra ArgeMAS projesinde yer aldım. - .NET Framework - .NET Winforms - TSQL - Devexpress - Katmanlı Mimari"
     role: "Bilgiayar Mühendisi"
     time: 10-2020-Halen
 footer: "Designed with <i class=\"fas fa-heart\"></i> by <a href=\"http://themes.3rdwavemedia.com\" target=\"_blank\" rel=\"nofollow\">Xiaoying Riley</a>\n"
 projects: 
   assignments: 
-    - 
-      tagline: "Proje realtime bir projedir.Kumaş kalite kontrol makinesinden görüntü işleme kamerasıyla fotoğraflar çekip dosyaya kaydeder ve fotoğraf kaydedikçe görüntü işleme projesi çalışmaya devam eder.Bunun için Kumaş kalite kontrol makinesi çalışmadan referans iki fotoğraftan treshold değeri elde edilir.Makine çalıştırılır Elde edilen  treshold değerine göre hata bulunan fotoğraflar hatanın bulunduğu metre ile veritabanına kaydedilir. "
+    - tagline: "Proje realtime bir projedir.Kumaş kalite kontrol makinesinden görüntü işleme kamerasıyla fotoğraflar çekip dosyaya kaydeder ve fotoğraf kaydedikçe görüntü işleme projesi çalışmaya devam eder.Bunun için Kumaş kalite kontrol makinesi çalışmadan referans iki fotoğraftan treshold değeri elde edilir.Makine çalıştırılır Elde edilen  treshold değerine göre hata bulunan fotoğraflar hatanın bulunduğu metre ile veritabanına kaydedilir. "
       title: "Kamera ile Kumaş Kalite Kontrol Projesi"
-    - 
-      tagline: "Bu proje de planlama modülünde ve diğer yazılım geliştirme kısımlarında yer aldım.Özellikle Planlama modulu için Tsql ile bol bol çalışma fırsatım oldu."
+    - tagline: "Bu proje de planlama modülünde ve diğer yazılım geliştirme kısımlarında yer aldım.Özellikle Planlama modulu için Tsql ile bol bol çalışma fırsatım oldu."
       title: "ArgeMAS Projesi"
-    - 
-      tagline: "Kullanıcılara araç kiralama projesidir. .Net 6.0 ile geliştiriyorum ,"
+    - tagline: "Kullanıcılara araç kiralama projesidir. .Net 6.0 ile geliştiriyorum ,"
       title: "Araç Kiralama Projesi"
   intro: "Üzerinde çalıştığım ve geliştirdiğim projeleri bu kısımda inceleyebilirsiniz.\n"
   title: Projects
@@ -62,21 +54,17 @@ sidebar:
   email: meryemyilmaz051@gmail.com
   github: meryemfatmayilmaz
   interests: 
-    - 
-      item: "Paten Kayma"
-    - 
-      item: Yapboz
-    - 
-      item: Voleybol
+    -  item: "Paten Kayma"
+    - item: Yapboz
+    -  item: Voleybol
   languages: 
-    - 
-      idiom: English
+    - idiom: English
       level: B1
   linkedin: meryem-fatma-yilmaz
   name: "Meryem Fatma Yılmaz"
   tagline: ".Net Developer"
   
-  publications:
+publications:
     title: Referanslar
     intro: |
       Referanslarıma ait bilgileri bu kısımda bulabilirsiniz.
@@ -85,7 +73,6 @@ sidebar:
         link: "https://tr.linkedin.com/in/ferhadkaleli"
         authors: .Net Developer
         
-        
       - title: Mücahit Ünal
         link: "https://tr.linkedin.com/in/kerim-sahin"
         authors: Elektrik-Elektronik Mühendisi
@@ -93,21 +80,15 @@ sidebar:
 skills: 
   title: "BECERİLER VE YETERLİLİK"
   toolset: 
-    - 
-      level: 60%
+    - level: 60%
       name: "C#"
-    - 
-      level: 75%
+    - level: 75%
       name: "Entity Framework"
-    - 
-      level: 65%
+    - level: 65%
       name: ".Net 6"
-    - 
-      level: 65%
+    - level: 65%
       name: "Mssql, TSQL, SQL"
-    - 
-      level: 30%
+    - level: 30%
       name: Python
-    - 
-      level: 60%
+    - level: 60%
       name: RabbitMQ
