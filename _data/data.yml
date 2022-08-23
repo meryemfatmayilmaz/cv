@@ -23,14 +23,10 @@ sidebar:
         level: B1
     interests:
       - item: Paten Kayma
-        link:
 
-      - item: Snowboarding
-        link:
+      - item: Yapboz
 
-      - item: Cooking
-        link:
-
+      - item: Voleybol
 career-profile:
     title: Hakkımda
     summary: |
@@ -66,10 +62,10 @@ experiences:
       details: 
         Arge Bilişim firmasına gönüllü stajyer olarak başladıktan sonra ekip uyumum, çözüm odaklı olmam sayesinde anlaşarak bu firmada işe başladım.
         Görüntü işleme projesine 10.2021 tarihine kadar devam ettim.
-        -Python
-        -.Net
-        -RabbitMQ        
-        -Ekip çalışması
+        - Python
+        -. Net
+        - RabbitMQ        
+        - Ekip çalışması
         
     - role: Bilgiayar Mühendisi
       time: 10-2020-Halen
@@ -80,6 +76,7 @@ experiences:
         - .NET Winforms
         - TSQL
         - Devexpress
+        - Katmanlı Mimari
    
         
 projects:
@@ -97,14 +94,11 @@ projects:
         tagline: "Bu proje de planlama modülünde ve diğer yazılım geliştirme kısımlarında yer aldım.Özellikle Planlama modulu için Tsql ile bol bol çalışma fırsatım oldu."
 
       - title: Araç Kiralama Projesi
-        tagline: "Kendimi geliştirmek üzere başladığım bir projedir.Kullanıcılara araç kiralama projesidir."
+        tagline: "Kullanıcılara araç kiralama projesidir. .Net 6.0 ile geliştiriyorum ,"
      
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+   
     papers:
       - title: The Art of Computer Programming
         link: "#"
@@ -125,23 +119,26 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: C#
         level: 60%
+        
+      - name: Entity Framework 
+        level: 75%
+        
+      - name: .Net 6
+        level: 65%
+        
+      - name: Mssql, TSQL, SQL
+        level: 65%
+      - name: Python
+        level: 30%
+
+      - name: RabbitMQ
+        level: 60%
+
+
+
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
