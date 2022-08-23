@@ -1,9 +1,4 @@
 --- 
-Referanslar: 
-  papers: 
-    - "title:Cihan Güllü .Net Developer"
-    - "title:Mücahit Ünal Elektrik-Elektronik Mühendisi"
-  title: Referanslar
 career-profile: 
   summary: "Merhabalar.14 Mart 1998 tarihinde İstanbul'da doğdum.Gebze Kocaeli'de ikamet ediyorum.Merakım sayesinde bu alana yöneldim ve sürekli merak edecek şeyler buluyorum.\n"
   title: Hakkımda
@@ -80,8 +75,23 @@ sidebar:
   linkedin: meryem-fatma-yilmaz
   name: "Meryem Fatma Yılmaz"
   tagline: ".Net Developer"
+  
+  publications:
+    title: Referanslar
+    intro: |
+      Referanslarıma ait bilgileri bu kısımda bulabilirsiniz.
+    papers:
+      - title: Cihan Güllü
+        link: "https://tr.linkedin.com/in/ferhadkaleli"
+        authors: .Net Developer
+        
+        
+      - title: Mücahit Ünal
+        link: "https://tr.linkedin.com/in/kerim-sahin"
+        authors: Elektrik-Elektronik Mühendisi
+        
 skills: 
-  title: "Skills & Proficiency"
+  title: "BECERİLER VE YETERLİLİK"
   toolset: 
     - 
       level: 60%
