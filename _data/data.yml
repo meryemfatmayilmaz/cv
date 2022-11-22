@@ -28,22 +28,23 @@ experiences:
     role: Stajyer
     time: "09.2020 - 10.2020"
   - company: "Arge Bilişim Ltd.Şti"
-    details: "Arge Bilişim firmasına gönüllü stajyer olarak başladıktan sonra ekip uyumum, çözüm odaklı olmam sayesinde anlaşarak bu firmada işe başladım. Görüntü işleme projesine 10.2021 tarihine kadar devam ettim. 
+    details:
+        Arge Bilişim firmasına gönüllü stajyer olarak başladıktan sonra ekip uyumum, çözüm odaklı olmam sayesinde anlaşarak bu firmada işe başladım. Görüntü işleme projesine 10.2021 tarihine kadar devam ettim.
           - Python 
           - .Net 
           - RabbitMQ 
           - Ekip çalışması
-    role: "Bilgiayar Mühendisi"
-    time: 10-2020-Halen
+    role: Bilgisayar Mühendisi
+    time: "09.2020 - 10.2020"
   - company: "Arge Bilişim Ltd.Şti"
-    details: "10.2021 tarihinden sonra ArgeMAS projesinde yer aldım. 
+    details: 10.2021 tarihinden sonra ArgeMAS projesinde yer aldım. 
           - .NET Framework
           - .NET Winforms
           - TSQL
           - Devexpress
           - Katmanlı Mimari
     role: "Bilgiayar Mühendisi"
-    time: 10-2020-Halen
+    time: "10-2020-Halen"
 footer: "Designed with <i class=\"fas fa-heart\"></i> by <a href=\"http://themes.3rdwavemedia.com\" target=\"_blank\" rel=\"nofollow\">Xiaoying Riley</a>\n"
 projects: 
   assignments: 
