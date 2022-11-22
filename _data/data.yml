@@ -28,7 +28,7 @@ experiences:
     role: Stajyer
     time: "09.2020 - 10.2020"
   - company: "Arge Bilişim Ltd.Şti"
-    details:
+    details:|
         Arge Bilişim firmasına gönüllü stajyer olarak başladıktan sonra ekip uyumum, çözüm odaklı olmam sayesinde anlaşarak bu firmada işe başladım. Görüntü işleme projesine 10.2021 tarihine kadar devam ettim.
           - Python 
           - .Net 
@@ -37,7 +37,8 @@ experiences:
     role: Bilgisayar Mühendisi
     time: "09.2020 - 10.2020"
   - company: "Arge Bilişim Ltd.Şti"
-    details: 10.2021 tarihinden sonra ArgeMAS projesinde yer aldım. 
+    details: |
+        10.2021 tarihinden sonra ArgeMAS projesinde yer aldım. 
           - .NET Framework
           - .NET Winforms
           - TSQL
