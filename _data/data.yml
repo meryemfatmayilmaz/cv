@@ -16,7 +16,7 @@ experiences:
     time: "06.2017 - 08.2017"
   - company: "Arge Bilişim Ltd.Şti"
     details: |
-        Üniversitenin son senesinde pyton görüntü işleme ve makine öğrenmesiyle uğraştığım ve üzerine gitmek istediğim için Arge Bilişim'de görüntü işleme üzerine staj yaptım.
+        Üniversitenin son senesinde python görüntü işleme ve makine öğrenmesiyle uğraştığım ve üzerine gitmek istediğim için Arge Bilişim'de görüntü işleme üzerine staj yaptım.
         Proje konusu kamera sistemi ile tekstil fabrikalarında kumaş kalite kontrol yapmaktı.
         Genel proje C# ile yazıldığı için Projeyi c# ile yazdım.
           - C# 
@@ -28,7 +28,7 @@ experiences:
     role: Stajyer
     time: "09.2020 - 10.2020"
   - company: "Arge Bilişim Ltd.Şti"
-    details:|
+    details: |
         Arge Bilişim firmasına gönüllü stajyer olarak başladıktan sonra ekip uyumum, çözüm odaklı olmam sayesinde anlaşarak bu firmada işe başladım. Görüntü işleme projesine 10.2021 tarihine kadar devam ettim.
           - Python 
           - .Net 
@@ -39,11 +39,11 @@ experiences:
   - company: "Arge Bilişim Ltd.Şti"
     details: |
         10.2021 tarihinden sonra ArgeMAS projesinde yer aldım. 
-          - .NET Framework
-          - .NET Winforms
-          - TSQL
-          - Devexpress
-          - Katmanlı Mimari
+        - .NET Framework
+        - .NET Winforms
+        - TSQL
+        - Devexpress
+        - Katmanlı Mimari
     role: "Bilgiayar Mühendisi"
     time: "10-2020-Halen"
 footer: "Designed with <i class=\"fas fa-heart\"></i> by <a href=\"http://themes.3rdwavemedia.com\" target=\"_blank\" rel=\"nofollow\">Xiaoying Riley</a>\n"
